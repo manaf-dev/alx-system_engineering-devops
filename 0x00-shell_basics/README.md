@@ -8,3 +8,4 @@ the 5-listfilesdigitonly list hiddenf files starting with .
 7-movethatfile move betty file to my_first_directory
 8-firstdelete file deletes the file betty
 9-firstdirdeletion delete directory my_first_directory
+10-back file change directory to previous dir
