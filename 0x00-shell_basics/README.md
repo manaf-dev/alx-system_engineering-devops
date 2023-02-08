@@ -7,3 +7,4 @@ the 5-listfilesdigitonly list hiddenf files starting with .
 6-firstdrectory creates a directory in /tmp/ directory
 7-movethatfile move betty file to my_first_directory
 8-firstdelete file deletes the file betty
+9-firstdirdeletion delete directory my_first_directory
