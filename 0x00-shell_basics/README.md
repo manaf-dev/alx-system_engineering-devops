@@ -9,3 +9,4 @@ the 5-listfilesdigitonly list hiddenf files starting with .
 8-firstdelete file deletes the file betty
 9-firstdirdeletion delete directory my_first_directory
 10-back file change directory to previous dir
+11-lists lists all files from current, parent and boot directories
