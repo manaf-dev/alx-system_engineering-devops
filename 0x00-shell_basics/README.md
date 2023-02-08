@@ -5,3 +5,4 @@ The 3-listfiles list the contents of current directory in long format
 The 4-listmorefiles lists hidden files in long format
 the 5-listfilesdigitonly list hiddenf files starting with .
 6-firstdrectory creates a directory in /tmp/ directory
+7-movethatfile move betty file to my_first_directory
